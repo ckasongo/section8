@@ -7,7 +7,7 @@ public static void main(String[] args) {
     
     
     
-    System.out.println("comulation result: ", 3*1);
+    System.out.println("comulation result: ", 3*i);
     i = i + 1;
     
     
